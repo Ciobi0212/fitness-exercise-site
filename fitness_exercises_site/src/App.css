@@ -1,0 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.exercise-card {
+    box-shadow: 20px 0 20px rgba(0,0,0,0.4);
+}
