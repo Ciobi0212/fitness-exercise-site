@@ -4,7 +4,6 @@ Fitness Center is a single-page-application that can help you learn exercises.
 
 Front-end: HTML, CSS, JS, React, Material UI.
 
-Back-end: 
 Exercises data API: https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 
 Youtube Search API: https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
